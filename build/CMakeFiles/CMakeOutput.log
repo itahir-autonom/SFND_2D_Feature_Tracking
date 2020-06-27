@@ -1,0 +1,55 @@
+The system is: Linux - 5.4.0-37-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /bin/gcc-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /bin/g++-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4d36b/fast && /usr/bin/make -f CMakeFiles/cmTC_4d36b.dir/build.make CMakeFiles/cmTC_4d36b.dir/build
+make[1]: Entering directory '/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4d36b.dir/testCCompiler.c.o
+/bin/gcc-9    -o CMakeFiles/cmTC_4d36b.dir/testCCompiler.c.o   -c "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_4d36b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d36b.dir/link.txt --verbose=1
+/bin/gcc-9      -rdynamic CMakeFiles/cmTC_4d36b.dir/testCCompiler.c.o  -o cmTC_4d36b 
+make[1]: Leaving directory '/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_66b18/fast && /usr/bin/make -f CMakeFiles/cmTC_66b18.dir/build.make CMakeFiles/cmTC_66b18.dir/build
+make[1]: Entering directory '/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_66b18.dir/testCXXCompiler.cxx.o
+/bin/g++-9     -o CMakeFiles/cmTC_66b18.dir/testCXXCompiler.cxx.o -c "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_66b18
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_66b18.dir/link.txt --verbose=1
+/bin/g++-9       -rdynamic CMakeFiles/cmTC_66b18.dir/testCXXCompiler.cxx.o  -o cmTC_66b18 
+make[1]: Leaving directory '/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build/CMakeFiles/CMakeTmp'
+
+
+

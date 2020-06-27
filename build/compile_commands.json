@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build",
+  "command": "/bin/g++-9   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/2D_feature_tracking.dir/src/matching2D_Student.cpp.o -c \"/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/src/matching2D_Student.cpp\"",
+  "file": "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/src/matching2D_Student.cpp"
+},
+{
+  "directory": "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/build",
+  "command": "/bin/g++-9   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/2D_feature_tracking.dir/src/MidTermProject_Camera_Student.cpp.o -c \"/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/src/MidTermProject_Camera_Student.cpp\"",
+  "file": "/data_drive/GITHUB/GitHub Repos/Sensor Fusion/SFND_2D_Feature_Tracking-master/src/MidTermProject_Camera_Student.cpp"
+}
+]
